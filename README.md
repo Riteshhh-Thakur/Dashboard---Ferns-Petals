@@ -9,11 +9,11 @@ To analyze customer orders across various occasions, cities, and time periods, w
 •	Operational insights like average delivery time
 ________________________________________
 📊 Key Metrics & Insights
-Metric	Value
-Total Revenue	₹35,20,984
-Total Orders	1,000
-Average Customer Spending	₹3,520.98
-Average Delivery Time	5.53 Days
+Metric              	             Value
+Total Revenue      	           ₹35,20,984
+Total Orders	                    1,000
+Average Customer Spending	     ₹3,520.98
+Average Delivery Time	         5.53 Days
 ________________________________________
 🔍 Dashboard Highlights
 🗓 Revenue by Occasion
