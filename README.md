@@ -3,37 +3,36 @@ This project delivers a data-driven analysis of 1,000 sales orders from Ferns N 
 ________________________________________
 🎯 Project Objective
 To analyze customer orders across various occasions, cities, and time periods, with the aim of identifying:
-•	High-performing product categories and cities
-•	Customer spending behaviour
-•	Seasonal sales trends
-•	Operational insights like average delivery time
+1) High-performing product categories and cities
+2) Customer spending behaviour
+3) Seasonal sales trends
+4) Operational insights like average delivery time
 ________________________________________
 📊 Key Metrics & Insights
-Metric              	             Value
-Total Revenue      	           ₹35,20,984
-Total Orders	                    1,000
-Average Customer Spending	     ₹3,520.98
-Average Delivery Time	         5.53 Days
+1) Total Revenue      	           ₹35,20,984
+2) Total Orders	                    1,000
+3) Average Customer Spending	     ₹3,520.98
+4) Average Delivery Time	         5.53 Days
 ________________________________________
 🔍 Dashboard Highlights
 🗓 Revenue by Occasion
-•	Anniversary, Raksha Bandhan, and Holi are top revenue-generating occasions.
-•	Opportunity: Focus marketing campaigns around these high-performing events.
+1) Anniversary, Raksha Bandhan, and Holi are top revenue-generating occasions.
+2) Opportunity: Focus marketing campaigns around these high-performing events.
 🗃️ Revenue by Category
-•	Colors, Soft Toys, and Sweets are the most profitable categories.
-•	Least-performing: Mugs and Plants, which might need repositioning or bundling.
+1) Colors, Soft Toys, and Sweets are the most profitable categories.
+2) Least-performing: Mugs and Plants, which might need repositioning or bundling.
 🏙 Revenue by Location
-•	Top cities: Bareilly, Ghaziabad, and Bhilai.
-•	Balanced revenue distribution across Tier 2 and Tier 3 cities — indicates wide market reach.
+1) Top cities: Bareilly, Ghaziabad, and Bhilai.
+2) Balanced revenue distribution across Tier 2 and Tier 3 cities — indicates wide market reach.
 🕓 Revenue by Order Time
-•	Peak order times are between 8 AM – 10 AM.
-•	Suggests morning campaigns or limited time offers can boost conversions.
+1) Peak order times are between 8 AM – 10 AM.
+2) Suggests morning campaigns or limited time offers can boost conversions.
 📅 Revenue by Month
-•	Revenue spikes in February (Valentine’s Day) and September (likely festivals).
-•	Dips in mid-year months — room for promotions or seasonal launches.
+1) Revenue spikes in February (Valentine’s Day) and September (likely festivals).
+2) Dips in mid-year months — room for promotions or seasonal launches.
 🔄 Product Comparison
-•	Five products contribute nearly equally (18%–22%) to revenue.
-•	Indicates a well-balanced product performance across the top items.
+1) Five products contribute nearly equally (18%–22%) to revenue.
+2) Indicates a well-balanced product performance across the top items.
 ________________________________________
 
 🧠 Business Questions Answered by This Dashboard
