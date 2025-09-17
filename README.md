@@ -36,7 +36,6 @@ ________________________________________
 ________________________________________
 
 🧠 Business Questions Answered by This Dashboard
-The following key business questions are addressed through this Excel dashboard:
 1.	Total Revenue: What is the overall revenue generated from the 1,000 sales orders?
 2.	Average Order and Delivery Time: How long does it take for orders to be delivered on average?
 3.	Monthly Sales Performance: How do sales fluctuate across the months of 2023?
